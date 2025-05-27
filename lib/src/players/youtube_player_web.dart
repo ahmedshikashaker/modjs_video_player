@@ -9,9 +9,8 @@ import 'dart:html';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
-import 'package:youtube_player_iframe/src/enums/player_state.dart';
-import 'package:youtube_player_iframe/src/enums/youtube_error.dart';
-import 'package:youtube_player_iframe/src/helpers/player_fragments.dart';
+import 'package:modjs_video_player/modjs_video_player.dart';
+import 'package:modjs_video_player/src/helpers/player_fragments.dart';
 
 import '../controller.dart';
 import '../meta_data.dart';

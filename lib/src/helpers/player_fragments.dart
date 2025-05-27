@@ -1,4 +1,5 @@
-import 'package:youtube_player_iframe/youtube_player_iframe.dart';
+
+import 'package:modjs_video_player/modjs_video_player.dart';
 
 ///
 String youtubeIFrameTag(YoutubePlayerController controller) {
